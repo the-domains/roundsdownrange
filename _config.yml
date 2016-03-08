@@ -1,7 +1,7 @@
 name: RoundsDownRange
 favicon: null
-layout_spectrum: 0.379230439895764
-typography_spectrum: 0.757611975306645
+layout_spectrum: 1
+typography_spectrum: 0.59506
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#adadad'
+    - '#dbdbdb'
+    - '#000000'
+    - '#9c0818'
+    - '#565656'
   brandStrength: 0.7100194513332099
   lightness: 0.16392245166935027
   saturation: 0.3237964112777263

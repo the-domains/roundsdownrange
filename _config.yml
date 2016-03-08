@@ -1,6 +1,6 @@
 name: RoundsDownRange
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.9505
 typography_spectrum: 0.59506
 title: RoundsDownRange System and Reviews
 cta:
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#9c0818'
     - '#565656'
-  brandStrength: 0.7100194513332099
+  brandStrength: 0.75
   lightness: 0.16392245166935027
   saturation: 0.3237964112777263
-  rhythmicContrast: 0.6878516399301589
+  rhythmicContrast: 0.75
 purpose: []
